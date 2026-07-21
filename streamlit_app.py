@@ -23,7 +23,7 @@
 
   <p class="eyebrow">لوحتك الشخصية للتنظيم والإبداع</p>
   <h1 class="wordmark">Rixsor</h1>
-  <p class="tagline">مساحة صغيرة ومرتّبة… ليومك، أفكارك، وتركيزك.</p>
+  <p class="tagline">مساحة صغيرة ومرتّبة ليومك، أفكارك، وتركيزك.</p>
 </header>
 
 <!-- ===== MAIN GRID ===== -->
